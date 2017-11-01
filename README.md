@@ -7,3 +7,7 @@
 - [Awesome datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [KDnuggets datasets list](http://www.kdnuggets.com/datasets/index.html)
 
+## Other 
+
+- [FB token](https://developers.facebook.com/tools/explorer)
+- [FB Graph API reference](https://developers.facebook.com/docs/graph-api/reference/page/)
